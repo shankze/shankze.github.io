@@ -126,7 +126,7 @@ author:
       url: "https://github.com/shankze"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-github"
-      url: "https://www.linkedin.com/in/shashank-bekal-2b658915/"
+        url: "https://www.linkedin.com/in/shashank-bekal-2b658915/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -293,11 +293,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-# _pages
-- scope:
-    path: ""
-    type: pages
-  values:
-    layout: single
-    author_profile: true 
