@@ -16,6 +16,9 @@ feature_row:
     alt: "placeholder image 1"
     title: "Harvey - Flight Analysis"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "https://github.com/shankze/Harvey-Flights/blob/master/Harvey.ipynb"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
   - image_path: /images/box2.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
