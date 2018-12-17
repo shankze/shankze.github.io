@@ -10,9 +10,6 @@ feature_row:
     alt: "placeholder image 1"
     title: "Harvey Flights"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
   - image_path: "/images/box3.jpg"
     alt: "placeholder image 2"
     title: "Google Analytics"
@@ -35,5 +32,6 @@ feature_row2:
     btn_class: "btn--inverse"
 
 ---
+@import style.
 {% include feature_row %}
 {% include feature_row id="feature_row2" %}
