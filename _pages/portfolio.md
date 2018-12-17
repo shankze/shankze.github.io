@@ -17,8 +17,14 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+feature_row2:
   - image_path: "/images/box3.jpg"
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: "/images/box3.jpg"
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 ---
 {% include feature_row %}
+{% include feature_row2 %}
