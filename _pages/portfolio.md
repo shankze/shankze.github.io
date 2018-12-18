@@ -7,10 +7,9 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Text here"
 intro:
-  - excerpt: "Text here"
+  - excerpt: ""
 feature_row2:
   - image_path: /images/harvey.jpg
     image_caption: "Image courtesy of [CIRA](https://www.cira.colostate.edu/)"
