@@ -12,34 +12,29 @@ excerpt: "Text here"
 intro:
   - excerpt: "Text here"
 feature_row2:
-  - image_path: /images/box1.jpg
+  - image_path: /images/harvey.jpg
+    image_caption: "Image courtesy of [CIRA](https://www.cira.colostate.edu/)"
     alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
+    title: "Hurricane Harvey - Analysis of Houston bound flights"
+    excerpt: 'Analysis of how airlines handled Houston bound flights during hurricane Harvey.'
+    url: "https://github.com/shankze/Harvey-Flights/blob/master/Harvey.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /images/box1.jpg
+  - image_path: /images/google.jpg
+    image_caption: "Image courtesy of Google Merchandise Store)"
     alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
+    title: "Google Analytics"
+    excerpt: 'Predicting the revenue by customer at the Google merchandise store.'
+    url: "https://github.com/shankze/GoogleAnalyticsChallenge/blob/master/Google%20Analytics%20Challenge.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /images/box1.jpg
+  - image_path: /images/titanic.jpg
     alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /images/box1.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
+    title: "Titanic Survival"
+    excerpt: 'Predicting the survivors on Titanic using Stacking.'
+    url: "https://github.com/shankze/Titanic-Survival/blob/master/Titanic_Survival.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
