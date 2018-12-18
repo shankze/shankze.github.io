@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
-excerpt: "Text here"
+excerpt: ""
 intro:
   - excerpt: ""
 feature_row2:
@@ -21,7 +21,7 @@ feature_row2:
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /images/google.jpg
-    image_caption: "Image courtesy of Google Merchandise Store)"
+    image_caption: "Image courtesy of [Google Merchandise Store](https://googlemerchandisestore.com/)"
     alt: "placeholder image 2"
     title: "Google Analytics"
     excerpt: 'Predicting the revenue by customer at the Google merchandise store.'
