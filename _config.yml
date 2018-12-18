@@ -127,6 +127,8 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
 
 # Site Footer
 footer:
