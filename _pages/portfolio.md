@@ -24,14 +24,14 @@ feature_row3:
     image_caption: "Image courtesy of [Google Merchandise Store](https://googlemerchandisestore.com/)"
     alt: "placeholder image 2"
     title: "Google Analytics"
-    excerpt: 'Predicting the revenue by customer at the Google merchandise store.'
+    excerpt: 'Predicting the revenue by customer at the Google merchandise store using LightGBM.'
     url: "https://github.com/shankze/GoogleAnalyticsChallenge/blob/master/Google%20Analytics%20Challenge.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /images/titanic.jpg
     alt: "placeholder image 2"
-    title: "Titanic Survival"
+    title: "Titanic: Machine Learning from Disaster"
     excerpt: 'Predicting the survivors on Titanic using Stacking.'
     url: "https://github.com/shankze/Titanic-Survival/blob/master/Titanic_Survival.ipynb"
     btn_label: "Read More"
