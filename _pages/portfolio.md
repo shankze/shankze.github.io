@@ -36,6 +36,14 @@ feature_row4:
     url: "https://github.com/shankze/Titanic-Survival/blob/master/Titanic_Survival.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
+feature_row5:
+  - image_path: /images/capitalbikeshare.jpg
+    alt: "placeholder image 2"
+    title: "Capital Bikeshare: Bike share demand forecast"
+    excerpt: 'Forecasting the bike share demand - EDA and Random Forest.'
+    url: "https://github.com/shankze/Bike-Sharing-Demand/blob/master/Capital%20Bike%20Share.ipynb"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -44,4 +52,6 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="feature_row5" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
