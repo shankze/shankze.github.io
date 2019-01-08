@@ -40,7 +40,8 @@ feature_row5:
   - image_path: /images/capitalbikeshare.jpg
     alt: "placeholder image 2"
     title: "Capital Bikeshare: Bike share demand forecast"
-    excerpt: 'Forecasting the bike share demand - EDA and Random Forest.'
+    excerpt: 'Forecasting the bike share demand - EDA and Random Forest.
+This solution is available as a docker container: docker pull shankze/bikeshare-image'
     url: "https://github.com/shankze/Bike-Sharing-Demand/blob/master/Capital%20Bike%20Share.ipynb"
     btn_label: "Read More"
     btn_class: "btn--primary"
