@@ -23,7 +23,7 @@ feature_row3:
   - image_path: /images/google.jpg
     image_caption: "Image courtesy of [Google Merchandise Store](https://googlemerchandisestore.com/)"
     alt: "placeholder image 2"
-    title: "Google Analytics: Revenue prediction"
+    title: "Google Analytics - Revenue prediction"
     excerpt: 'Predicting the revenue by customer at the Google merchandise store using LightGBM.'
     url: "https://github.com/shankze/GoogleAnalyticsChallenge/blob/master/Google%20Analytics%20Challenge.ipynb"
     btn_label: "Read More"
@@ -31,7 +31,7 @@ feature_row3:
 feature_row4:
   - image_path: /images/titanic.jpg
     alt: "placeholder image 2"
-    title: "Titanic: Machine Learning from Disaster"
+    title: "Titanic - Machine Learning from Disaster"
     excerpt: 'Predicting the survivors on Titanic using Stacking.'
     url: "https://github.com/shankze/Titanic-Survival/blob/master/Titanic_Survival.ipynb"
     btn_label: "Read More"
@@ -39,7 +39,7 @@ feature_row4:
 feature_row5:
   - image_path: /images/capitalbikeshare.jpg
     alt: "placeholder image 2"
-    title: "Capital Bikeshare: Bike share demand forecast"
+    title: "Capital Bikeshare - Bike share demand forecast"
     excerpt: 'Forecasting the bike share demand - EDA and Random Forest.
 This solution is available as a docker container: docker pull shankze/bikeshare-image'
     url: "https://github.com/shankze/Bike-Sharing-Demand/blob/master/Capital%20Bike%20Share.ipynb"
