@@ -23,7 +23,7 @@ feature_row3:
   - image_path: /images/google.jpg
     image_caption: "Image courtesy of [Google Merchandise Store](https://googlemerchandisestore.com/)"
     alt: "placeholder image 2"
-    title: "Google Analytics"
+    title: "Google Analytics: Revenue prediction"
     excerpt: 'Predicting the revenue by customer at the Google merchandise store using LightGBM.'
     url: "https://github.com/shankze/GoogleAnalyticsChallenge/blob/master/Google%20Analytics%20Challenge.ipynb"
     btn_label: "Read More"
