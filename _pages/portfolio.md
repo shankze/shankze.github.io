@@ -16,7 +16,7 @@ feature_row2:
     alt: "placeholder image 2"
     title: "Hurricane Harvey - Analysis of Houston bound flights"
     excerpt: 'Analysis of how airlines handled Houston bound flights during hurricane Harvey.'
-    url: "https://github.com/shankze/Harvey-Flights/blob/master/Harvey.ipynb"
+    url: "https://github.com/shankze/Harvey-Flights"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
@@ -25,7 +25,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Google Analytics - Revenue prediction"
     excerpt: 'Predicting the revenue by customer at the Google merchandise store using LightGBM.'
-    url: "https://github.com/shankze/GoogleAnalyticsChallenge/blob/master/Google%20Analytics%20Challenge.ipynb"
+    url: "https://github.com/shankze/GoogleAnalyticsChallenge"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
@@ -33,7 +33,7 @@ feature_row4:
     alt: "placeholder image 2"
     title: "Titanic - Machine Learning from Disaster"
     excerpt: 'Predicting the survivors on Titanic using Stacking.'
-    url: "https://github.com/shankze/Titanic-Survival/blob/master/Titanic_Survival.ipynb"
+    url: "https://github.com/shankze/Titanic-Survival"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row5:
@@ -42,7 +42,7 @@ feature_row5:
     title: "Capital Bikeshare - Bike share demand forecast"
     excerpt: 'Forecasting the bike share demand - EDA and Random Forest.
 This solution is available as a docker container: docker pull shankze/bikeshare-image'
-    url: "https://github.com/shankze/Bike-Sharing-Demand/blob/master/Capital%20Bike%20Share.ipynb"
+    url: "https://github.com/shankze/Bike-Sharing-Demand"
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
